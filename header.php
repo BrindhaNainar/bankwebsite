@@ -17,8 +17,5 @@
 			<div class="name">
 				<h5> Golden-Ager Bank</h5></a><br>
 				
-			</div>
-        
-           
-			
+			</div>		
 	</div>
